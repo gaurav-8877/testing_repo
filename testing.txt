@@ -1,0 +1,4 @@
+New text added inside testing.txt
+:w -> save
+:q -> quit (saved)
+:q! -> quit without saving
